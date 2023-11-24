@@ -1,10 +1,14 @@
-- 👋 Hi, I’m @tinodevclumsy
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+👋 Hi, I’m @tinodevclumsy
 
-<!---
-tinodevclumsy/tinodevclumsy is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+I am a skilled and dedicated developer with over 2 years of professional experience. My expertise lies in front-end web development, with proficiency in HTML, CSS, JavaScript, Vue.js, and React.js and strong interests in mobile development as well.
+
+<div>
+  <img src="https://img.shields.io/badge/html5-E34F26?style=for-the-badge&logo=gatsby&logoColor=white">
+  <img src="https://img.shields.io/badge/css3-1572B6?style=for-the-badge&logo=gatsby&logoColor=white">
+  <img src="https://img.shields.io/badge/gatsby-663399?style=for-the-badge&logo=gatsby&logoColor=white">
+  <img src="https://img.shields.io/badge/react-61DAFB?style=for-the-badge&logo=react&logoColor=white">
+  <img src="https://img.shields.io/badge/redux-764ABC?style=for-the-badge&logo=react&logoColor=white">
+  <img src="https://img.shields.io/badge/vuedotjs-4FC08D?style=for-the-badge&logo=react&logoColor=white">
+  <img src="https://img.shields.io/badge/javascript-F7DF1E?style=for-the-badge&logo=react&logoColor=white">
+  <img src="https://img.shields.io/badge/styledcomponents-DB7093?style=for-the-badge&logo=styledcomponents&logoColor=white">
+</div>
